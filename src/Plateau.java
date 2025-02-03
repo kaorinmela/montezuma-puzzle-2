@@ -1,5 +1,3 @@
-package ca.qc.bdeb.sim202;
-
 public class Plateau {
     private final int contourMatrice = 3;
     private int ligne;

@@ -1,4 +1,3 @@
-package ca.qc.bdeb.sim202;
 /**
  * But : Écrire un programme qui permet à l'utilisateur de résoudre des casse-têtes.
  *

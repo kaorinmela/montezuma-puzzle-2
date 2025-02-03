@@ -1,5 +1,3 @@
-package ca.qc.bdeb.sim202;
-
 public class Piece {
     private int ligne;
     private int colonne;

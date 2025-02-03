@@ -1,4 +1,3 @@
-package ca.qc.bdeb.sim202;
 import java.io.*;
 import java.util.Scanner;
 public class Niveau {
