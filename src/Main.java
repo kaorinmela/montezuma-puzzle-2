@@ -87,7 +87,7 @@ public class Main {
                 "█       █  █▄█  █  ▄    █ █   █ █    ▄▄▄█ ▄▄▄▄▄▄█       █       █       █\n" +
                 "█ ██▄██ █       █ █ █   █ █   █ █   █▄▄▄█ █▄▄▄▄▄█       █ ██▄██ █   ▄   █\n" +
                 "█▄█   █▄█▄▄▄▄▄▄▄█▄█  █▄▄█ █▄▄▄█ █▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█▄█   █▄█▄▄█ █▄▄█\n");
-        System.out.println("@ 2023 Abchiche Wissam ෴ლ～⊰ +Montezuma+ ෴ლ～⊰");
+        System.out.println("෴ლ～⊰ +Montezuma+ ෴ლ～⊰");
         System.out.println("Appuyez sur entrée pour lancer le jeu!");
         clavier.nextLine();
     }
